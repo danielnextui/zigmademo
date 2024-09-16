@@ -108,9 +108,9 @@
   --colors-semantic-secondary-700: #3737b3;
   --colors-semantic-secondary-800: #282893;
   --colors-semantic-secondary-900: #1a1a66;
-  --colors-specific-button-primary-default: #45d483;
-  --colors-specific-button-primary-foreground: #efefef;
-  --colors-specific-button-primary-hover: #f31260;
-  --colors-specific-button-primary-active: #f31260;
-  --colors-specific-button-primary-disabled: #f31260;
+  --colors-specific-button-primary-default: #FF9800;
+  --colors-specific-button-primary-foreground: #000000;
+  --colors-specific-button-primary-hover: #91CAFF;
+  --colors-specific-button-primary-active: #004493;
+  --colors-specific-button-primary-disabled: #004493;
 }

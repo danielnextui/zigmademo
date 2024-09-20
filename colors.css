@@ -6,7 +6,7 @@
  */
 
 :root {
-  --colors-base-common-white: #efefef;
+  --colors-base-common-white: #f6f6f6;
   --colors-base-common-black: #000000;
   --colors-base-blue-50: #e7f3ff;
   --colors-base-blue-100: #c4e1ff;
@@ -110,8 +110,8 @@
   --colors-semantic-secondary-700: #3737b3;
   --colors-semantic-secondary-800: #282893;
   --colors-semantic-secondary-900: #1a1a66;
-  --colors-specific-button-primary-default: #b35dff;
-  --colors-specific-button-primary-foreground: #f3e7ff;
+  --colors-specific-button-primary-default: #17c964;
+  --colors-specific-button-primary-foreground: #ffffff;
   --colors-specific-button-primary-hover: #007bff;
   --colors-specific-button-primary-active: #007bff;
   --colors-specific-button-primary-disabled: #1a334e;

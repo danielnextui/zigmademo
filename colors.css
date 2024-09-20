@@ -19,7 +19,7 @@
   --colors-base-blue-800: #004493;
   --colors-base-blue-900: #002e66;
   --colors-base-blue-950: #001f47;
-  --colors-base-blue-1000: #009ff4; /* strange blue that i created */
+  --colors-base-blue-1000: #00063a; /* strange blue that i created */
   --colors-base-blue-colors-13: #000000;
   --colors-base-purple-50: #f3e7ff;
   --colors-base-purple-100: #e1c4ff;
@@ -84,12 +84,12 @@
   --colors-base-red-700: #920b3a;
   --colors-base-red-800: #610726;
   --colors-base-red-900: #310413;
-  --colors-semantic-layout-background: #000000;
-  --colors-semantic-layout-foreground: #efefef;
-  --colors-semantic-layout-border: #cbd5e1;
-  --colors-semantic-layout-divider: #64748b;
+  --colors-semantic-layout-background: #efefef;
+  --colors-semantic-layout-foreground: #000000;
+  --colors-semantic-layout-border: #e2e8f0;
+  --colors-semantic-layout-divider: #cbd5e1;
   --colors-semantic-layout-accent: #ff9800;
-  --colors-semantic-layout-muted-foreground: #334155;
+  --colors-semantic-layout-muted-foreground: #64748b;
   --colors-semantic-primary-50: #e7f3ff;
   --colors-semantic-primary-100: #c4e1ff;
   --colors-semantic-primary-200: #91caff;
@@ -110,7 +110,7 @@
   --colors-semantic-secondary-700: #3737b3;
   --colors-semantic-secondary-800: #282893;
   --colors-semantic-secondary-900: #1a1a66;
-  --colors-specific-button-primary-default: #009ff4;
+  --colors-specific-button-primary-default: #b35dff;
   --colors-specific-button-primary-foreground: #ffffff;
   --colors-specific-button-primary-hover: #007bff;
   --colors-specific-button-primary-active: #007bff;

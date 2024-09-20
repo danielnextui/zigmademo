@@ -114,5 +114,6 @@
   --colors-specific-button-primary-foreground: #f3e7ff;
   --colors-specific-button-primary-hover: #007bff;
   --colors-specific-button-primary-active: #007bff;
-  --colors-specific-button-primary-disabled: #007bff;
+  --colors-specific-button-primary-disabled: #1a334e;
+  --colors-specific-button-colors-6: #000000;
 }

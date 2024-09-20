@@ -19,7 +19,7 @@
   --colors-base-blue-800: #004493;
   --colors-base-blue-900: #002e66;
   --colors-base-blue-950: #001f47;
-  --colors-base-blue-colors-12: #009ff4; /* strange blue that i created */
+  --colors-base-blue-1000: #009ff4; /* strange blue that i created */
   --colors-base-blue-colors-13: #000000;
   --colors-base-purple-50: #f3e7ff;
   --colors-base-purple-100: #e1c4ff;
@@ -110,6 +110,7 @@
   --colors-semantic-secondary-700: #3737b3;
   --colors-semantic-secondary-800: #282893;
   --colors-semantic-secondary-900: #1a1a66;
+  --colors-specific-button-primary-default: #009ff4;
   --colors-specific-button-primary-foreground: #ffffff;
   --colors-specific-button-primary-hover: #007bff;
   --colors-specific-button-primary-active: #007bff;

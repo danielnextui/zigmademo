@@ -20,7 +20,6 @@
   --colors-base-blue-900: #002e66;
   --colors-base-blue-950: #001f47;
   --colors-base-blue-1000: #00063a; /* strange blue that i created */
-  --colors-base-blue-colors-13: #000000;
   --colors-base-purple-50: #f3e7ff;
   --colors-base-purple-100: #e1c4ff;
   --colors-base-purple-200: #ca91ff;
@@ -110,10 +109,9 @@
   --colors-semantic-secondary-700: #3737b3;
   --colors-semantic-secondary-800: #282893;
   --colors-semantic-secondary-900: #1a1a66;
-  --colors-specific-button-primary-default: #ff9800;
+  --colors-specific-button-primary-default: #ff9801;
   --colors-specific-button-primary-foreground: #ffffff;
   --colors-specific-button-primary-hover: #007bff;
   --colors-specific-button-primary-active: #007bff;
   --colors-specific-button-primary-disabled: #007bff;
-  --colors-specific-button-colors-6: #000000;
 }

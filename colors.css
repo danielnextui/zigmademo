@@ -83,12 +83,12 @@
   --colors-base-red-700: #920b3a;
   --colors-base-red-800: #610726;
   --colors-base-red-900: #310413;
-  --colors-semantic-layout-background: #000000;
-  --colors-semantic-layout-foreground: #f6f6f6;
-  --colors-semantic-layout-border: #1e293b;
-  --colors-semantic-layout-divider: #334155;
-  --colors-semantic-layout-accent: #007bff;
-  --colors-semantic-layout-muted-foreground: #64748b;
+  --colors-semantic-layout-background: #f6f6f6;
+  --colors-semantic-layout-foreground: #000000;
+  --colors-semantic-layout-border: #e2e8f0;
+  --colors-semantic-layout-divider: #f1f5f9;
+  --colors-semantic-layout-accent: #c4e1ff;
+  --colors-semantic-layout-muted-foreground: #cbd5e1;
   --colors-semantic-primary-50: #e7f3ff;
   --colors-semantic-primary-100: #c4e1ff;
   --colors-semantic-primary-200: #91caff;
@@ -109,7 +109,7 @@
   --colors-semantic-secondary-700: #3737b3;
   --colors-semantic-secondary-800: #282893;
   --colors-semantic-secondary-900: #1a1a66;
-  --colors-specific-button-primary-default: #45d483;
+  --colors-specific-button-primary-default: #f57c00;
   --colors-specific-button-primary-foreground: #ffffff;
   --colors-specific-button-primary-hover: #007bff;
   --colors-specific-button-primary-active: #007bff;
